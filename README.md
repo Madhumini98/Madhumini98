@@ -6,7 +6,7 @@ Hi 👋, I'm Madhumini Kodithuwakku
   <img src="https://img.shields.io/badge/QA-Automation%20Expert-brightgreen" alt="QA Expert" />
   <img src="https://img.shields.io/badge/Testing-Cypress%20%7C%20Selenium-blue" alt="Testing Tools" />
 </p>
-Former Full Stack Developer turned QA Engineer with hands-on experience from Sri Lanka Telecom. Passionate about ensuring software quality through comprehensive testing strategies and automation frameworks.
+Former Full Stack Developer turned QA Engineer with hands-on experience. Passionate about ensuring software quality through comprehensive testing strategies and automation frameworks.
 
 🚀 What I Do
 
@@ -32,7 +32,6 @@ Achieved Certificate of Excellence for outstanding performance
 
 📚 Certifications & Learning
 
-ISTQB 4.0+ Foundation Certified
 Programming Foundations: Software Testing/QA
 Agile Testing & Manual Testing Expert
 JMeter Performance Testing Specialist
@@ -96,7 +95,7 @@ Performed usability assessments and security vulnerability testing
 
 🌐 Let's Connect!
 <p align="center">
-<a href="https://linkedin.com/in/madhumini-kodithuwakku" target="_blank">
+<a href="https://www.linkedin.com/in/madhumini-kodithuwakku-ba95b6344/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://medium.com/@kodithuwakkumadhumini12" target="_blank">
