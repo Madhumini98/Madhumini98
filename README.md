@@ -1,4 +1,4 @@
-Hi 👋, I'm Madhumini Kodithuwakku
+Hi 👋, I'm Madhumini Kodithuwakku<br>
 🎯 Trainee Quality Assurance Engineer | Cypress Automation Specialist
 
 <p align="left"> 
@@ -6,9 +6,9 @@ Hi 👋, I'm Madhumini Kodithuwakku
   <img src="https://img.shields.io/badge/QA-Automation%20Expert-brightgreen" alt="QA Expert" />
   <img src="https://img.shields.io/badge/Testing-Cypress%20%7C%20Selenium-blue" alt="Testing Tools" />
 </p>
-Former Full Stack Developer turned QA Engineer with hands-on experience. Passionate about ensuring software quality through comprehensive testing strategies and automation frameworks.
+Former Full Stack Developer turned QA Engineer with hands-on experience. Passionate about ensuring software quality through comprehensive testing strategies and automation frameworks.<br>
 
-🚀 What I Do
+🚀 What I Do<br>
 
 🔬 End-to-End Testing with Cypress & Selenium automation<br>
 🧪 Manual & Automated Testing for web applications<br>
@@ -16,32 +16,35 @@ Former Full Stack Developer turned QA Engineer with hands-on experience. Passion
 📊 Performance Testing using JMeter for optimal user experience<br>
 🔧 API Testing with Postman for backend validation<br>
 
-💡 Currently Mastering
+💡 Currently Mastering<br>
 
 Cypress Advanced Techniques - Custom commands, Page Object Model, CI/CD integration<br>
 Test Strategy Development - Creating comprehensive test plans for complex applications<br>
 Agile Testing Practices - BDD/TDD methodologies and collaborative testing<br>
 Security Testing - Ensuring robust application security standards<br>
 
-🏆 Notable Experience
-Software Quality Engineer | LONGWApps (July 2025 - Present)<br>
+🏆 Notable Experience<br>
+🎯 Software Quality Engineer | LONGWApps (July 2025 - Present)<br>
+Leading comprehensive testing initiatives across multiple projects<br>
+Successfully implemented Cypress automation framework for key projects<br>
+Thriving in collaborative environments while rapidly expanding technical expertise in quality assurance methodologies<br>
 
-Full Stack Software Engineer Intern | Sri Lanka Telecom (Jan - July 2024)<br>
+🎯 Full Stack Software Engineer Intern | Sri Lanka Telecom (Jan - July 2024)<br>
 Optimized Park'N Pay Solution with comprehensive testing approach<br>
 Led OCR analysis and UI/UX testing ensuring seamless user experience<br>
 Achieved Certificate of Excellence for outstanding performance<br>
 
-
-📚 Certifications & Learning
+📚 Certifications & Learning<br>
 
 Programming Foundations: Software Testing/QA<br>
 Agile Testing & Manual Testing Expert<br>
 JMeter Performance Testing Specialist<br>
 10+ Professional Testing Certificates from LinkedIn Learning & Microsoft<br>
 
-💬 Ask Me About
+💬 Ask Me About<br>
 Cypress | Selenium | API Testing | Manual Testing | Performance Testing | Agile QA<br>
-📫 Connect With Me
+
+📫 Connect With Me<br>
 
 📧 Email: madhuminikkodithuwakku@gmail.com
 💼 LinkedIn: Professional Network
@@ -65,26 +68,6 @@ Show Image
 Show Image
 Show Image
 Show Image
-
-🌟 Featured Projects
-Wellness Buddy | Full Testing Suite
-React.js, Node.js, MongoDB, Selenium, JUnit, JMeter
-
-Implemented comprehensive end-to-end testing using Selenium & TestNG
-Designed automated test execution pipeline with quality reporting
-
-Courseify | QA Validation Focus
-React, Node.js, MongoDB, Manual Testing
-
-Conducted thorough manual testing and UI component validation
-Ensured bug-free functionality and seamless user experience
-
-Three-Level Authentication System | Security Testing
-PHP, JavaScript, Security Testing
-
-Focused on security testing and authentication function validation
-Performed usability assessments and security vulnerability testing
-
 
 📊 GitHub Stats
 <div align="center">
