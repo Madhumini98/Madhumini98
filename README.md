@@ -10,35 +10,37 @@ Former Full Stack Developer turned QA Engineer with hands-on experience. Passion
 
 🚀 What I Do
 
-🔬 End-to-End Testing with Cypress & Selenium automation
-🧪 Manual & Automated Testing for web applications
-🐛 Bug Detection & Quality Assurance across development lifecycles
-📊 Performance Testing using JMeter for optimal user experience
-🔧 API Testing with Postman for backend validation
+🔬 End-to-End Testing with Cypress & Selenium automation<br>
+🧪 Manual & Automated Testing for web applications<br>
+🐛 Bug Detection & Quality Assurance across development lifecycles<br>
+📊 Performance Testing using JMeter for optimal user experience<br>
+🔧 API Testing with Postman for backend validation<br>
 
 💡 Currently Mastering
 
-Cypress Advanced Techniques - Custom commands, Page Object Model, CI/CD integration
-Test Strategy Development - Creating comprehensive test plans for complex applications
-Agile Testing Practices - BDD/TDD methodologies and collaborative testing
-Security Testing - Ensuring robust application security standards
+Cypress Advanced Techniques - Custom commands, Page Object Model, CI/CD integration<br>
+Test Strategy Development - Creating comprehensive test plans for complex applications<br>
+Agile Testing Practices - BDD/TDD methodologies and collaborative testing<br>
+Security Testing - Ensuring robust application security standards<br>
 
 🏆 Notable Experience
-Full Stack Software Engineer Intern | Sri Lanka Telecom (Jan-July 2024)
+Software Quality Engineer | LONGWApps (July 2025 - Present)<br>
 
-Optimized Park'N Pay Solution with comprehensive testing approach
-Led OCR analysis and UI/UX testing ensuring seamless user experience
-Achieved Certificate of Excellence for outstanding performance
+Full Stack Software Engineer Intern | Sri Lanka Telecom (Jan - July 2024)<br>
+Optimized Park'N Pay Solution with comprehensive testing approach<br>
+Led OCR analysis and UI/UX testing ensuring seamless user experience<br>
+Achieved Certificate of Excellence for outstanding performance<br>
+
 
 📚 Certifications & Learning
 
-Programming Foundations: Software Testing/QA
-Agile Testing & Manual Testing Expert
-JMeter Performance Testing Specialist
-10+ Professional Testing Certificates from LinkedIn Learning & Microsoft
+Programming Foundations: Software Testing/QA<br>
+Agile Testing & Manual Testing Expert<br>
+JMeter Performance Testing Specialist<br>
+10+ Professional Testing Certificates from LinkedIn Learning & Microsoft<br>
 
 💬 Ask Me About
-Cypress | Selenium | API Testing | Manual Testing | Performance Testing | Agile QA
+Cypress | Selenium | API Testing | Manual Testing | Performance Testing | Agile QA<br>
 📫 Connect With Me
 
 📧 Email: madhuminikkodithuwakku@gmail.com
