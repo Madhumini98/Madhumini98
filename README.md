@@ -24,7 +24,7 @@ Agile Testing Practices - BDD/TDD methodologies and collaborative testing<br>
 Security Testing - Ensuring robust application security standards<br>
 
 🏆 Notable Experience<br>
-🎯 Software Quality Engineer | LONGWApps (July 2025 - Present)<br>
+<br>🎯 Software Quality Engineer | LONGWApps (July 2025 - Present)<br>
 Leading comprehensive testing initiatives across multiple projects<br>
 Successfully implemented Cypress automation framework for key projects<br>
 Thriving in collaborative environments while rapidly expanding technical expertise in quality assurance methodologies<br>
@@ -50,24 +50,6 @@ Cypress | Selenium | API Testing | Manual Testing | Performance Testing | Agile 
 💼 LinkedIn: Professional Network<br>
 📝 Medium: Testing Insights & Tutorials<br>
 🎨 Portfolio: View My Work<br>
-
-
-🛠️ Tech Stack
-🧪 Testing Arsenal
-Show Image
-Show Image
-Show Image
-Show Image
-💻 Development Skills
-Show Image
-Show Image
-Show Image
-Show Image
-🗄️ Databases & Tools
-Show Image
-Show Image
-Show Image
-Show Image
 
 📊 GitHub Stats
 <div align="center">
