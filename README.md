@@ -8,7 +8,7 @@ Hi 👋, I'm Madhumini Kodithuwakku<br>
 </p>
 Former Full Stack Developer turned QA Engineer with hands-on experience. Passionate about ensuring software quality through comprehensive testing strategies and automation frameworks.<br>
 
-🚀 What I Do<br>
+<br>🚀 What I Do<br>
 
 🔬 End-to-End Testing with Cypress & Selenium automation<br>
 🧪 Manual & Automated Testing for web applications<br>
@@ -46,10 +46,10 @@ Cypress | Selenium | API Testing | Manual Testing | Performance Testing | Agile 
 
 📫 Connect With Me<br>
 
-📧 Email: madhuminikkodithuwakku@gmail.com
-💼 LinkedIn: Professional Network
-📝 Medium: Testing Insights & Tutorials
-🎨 Portfolio: View My Work
+📧 Email: madhuminikkodithuwakku@gmail.com<br>
+💼 LinkedIn: Professional Network<br>
+📝 Medium: Testing Insights & Tutorials<br>
+🎨 Portfolio: View My Work<br>
 
 
 🛠️ Tech Stack
