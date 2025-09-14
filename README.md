@@ -47,9 +47,9 @@ Cypress | Selenium | API Testing | Manual Testing | Performance Testing | Agile 
 📫 Connect With Me<br>
 
 📧 Email: madhuminikkodithuwakku@gmail.com<br>
-💼 LinkedIn: Professional Network<br>
-📝 Medium: Testing Insights & Tutorials<br>
-🎨 Portfolio: View My Work<br>
+💼 LinkedIn: https://www.linkedin.com/in/madhumini-kodithuwakku-ba95b6344/<br>
+📝 Medium: https://medium.com/@kodithuwakkumadhumini12<br>
+🎨 Portfolio: https://madhumini-portfolio.netlify.app/<br>
 
 📊 GitHub Stats
 <div align="center">
