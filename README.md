@@ -1,4 +1,5 @@
-Hi 👋, I'm Madhumini Kodithuwakku<br>
+Hi 👋, <br>
+I'm Madhumini Kodithuwakku<br>
 🎯 Trainee Quality Assurance Engineer | Cypress Automation Specialist
 
 <p align="left"> 
